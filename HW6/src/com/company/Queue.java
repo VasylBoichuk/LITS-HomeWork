@@ -12,14 +12,12 @@ public class Queue {
         list.add(addToList);
         return addToList;
     }
-
     public void printList(){
         for(int elemList : list){
             System.out.print(elemList + " ");
         }
         System.out.println();
     }
-
     public void printLastElement(){
    int lastElement = list.get(list.size()-1);
         System.out.println("Останній доданий елемент- " + lastElement);

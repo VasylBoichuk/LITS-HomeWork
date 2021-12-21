@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Random;
 
 public class MainHW6 {
-
     public static void main(String[] args) {
         List<Integer> integerList = List.of(1, 2, 3, 4, 5, 6, 15, 48, 74);
         List<Integer> div2List = new ArrayList<>();
