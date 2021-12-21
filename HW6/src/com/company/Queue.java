@@ -1,6 +1,7 @@
 package com.company;
 import java.util.LinkedList;
 
+
 public class Queue {
         private LinkedList<Integer> list;
 

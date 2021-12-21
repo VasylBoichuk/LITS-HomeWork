@@ -13,6 +13,7 @@ public class MainHW6 {
                 div2List.add(integerList.get(i));
             } else dontDiv2List.add(integerList.get(i));
         }
+
         System.out.println("Парні числа list - " + div2List);
         System.out.println("Непарні числа list - " + dontDiv2List);
 
